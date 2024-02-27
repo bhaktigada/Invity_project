@@ -4,18 +4,19 @@ Invity is a project collaboration platform where individuals and companies can s
 
 ## Features
 
-Project Creation: Users can create projects specifying their type, objectives, and requirements.
-Project Discovery: Browse through a variety of projects based on their type and other parameters.
-Join Projects: Interested individuals can join projects to contribute their skills and expertise.
-Collaboration Tools: Share documents, messages, and updates with project members.
-Project Management: Organize tasks, set milestones, and track progress within each project.
+- **Project Creation**: Users can create projects specifying their type, objectives, and requirements.
+- **Project Discovery**: Browse through a variety of projects based on their type and other parameters.
+- **Join Projects**: Interested individuals can join projects to contribute their skills and expertise.
+- **Collaboration Tools**: Share documents, messages, and updates with project members.
+- **Project Management**: Organize tasks, set milestones, and track progress within each project.
+
 ## Technologies Used
 
-Frontend:
+- **Frontend**:
+  - HTML
+  - CSS
+  - JavaScript
 
-HTML
-CSS
-JavaScript
-Backend:
-
-PHP
+- **Backend**:
+  - PHP
+  
